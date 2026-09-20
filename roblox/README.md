@@ -8,6 +8,7 @@ Roblox Studio로 만든 게임 맵과 캐릭터 애니메이션입니다.
 |---|---|
 | `ChooseYourPower_OldMap.rbxl` | Choose Your Power(CYP) 초기 맵. 유튜브 쇼츠 「게임을 5배속 하면 일어나는 일」 배경 |
 | `Forsaken.rbxl` | Forsaken 스타일 맵 |
+| `enemies.rbxl` | 적 캐릭터 테스트 맵 |
 | `sad.rbxl` | 애니메이션 촬영용 맵 |
 
 ## animations/ (`.rbxm`)
