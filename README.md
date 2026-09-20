@@ -7,6 +7,7 @@
 
 - YouTube [Le_몬](https://www.youtube.com/@Le_%EB%AA%AC) — Roblox(슬랩배틀) 이모트 애니메이션, 배너 제작 영상. 구독자 92명, 동영상 15개 (2026.09 기준)
 - 애니메이션 작업 모음 [le-mon-dev/animating](https://github.com/le-mon-dev/animating)
+- 코딩 기록 모음 [le-mon-dev/coding](https://github.com/le-mon-dev/coding)
 - 엔트리 [작품 목록](games/entry/)
 
 ## 폴더 구성
