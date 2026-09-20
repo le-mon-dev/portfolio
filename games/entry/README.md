@@ -2,7 +2,7 @@
 
 [엔트리(Entry)](https://playentry.org)에서 2020년 12월부터 만든 작품 목록입니다. 프로필: [playentry.org/profile/5c962ab2174736078326fdc5](https://playentry.org/profile/5c962ab2174736078326fdc5/project)
 
-- 전체 작품 232개 (제목 없이 저장된 초안 73개를 빼면 159개)
+- 전체 작품 232개
 - 누적 조회 7,324 · 좋아요 193 · 댓글 964
 - 전체 목록 데이터: [`projects.tsv`](projects.tsv)
 - 대부분 비공개 상태라 링크는 작품 소유자만 열 수 있습니다. 엔트리에서 공개로 바꾸면 누구나 볼 수 있습니다.
