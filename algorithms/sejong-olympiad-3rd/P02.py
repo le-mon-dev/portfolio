@@ -1,0 +1,5 @@
+a, b = map(int,input().split())
+#print(a, b)
+A, B = map(int, input().split())
+# print(A, B)
+print(a*A + b*B)
